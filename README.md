@@ -59,6 +59,10 @@
 
 ![Snake animation](https://github.com/LuccasPoontes/SnakeLuccasPoontes/blob/main/contribution-grid-snake.svg)
 
+<img src="https://raw.githubusercontent.com/luccaspoontes/luccaspoontes/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
  
