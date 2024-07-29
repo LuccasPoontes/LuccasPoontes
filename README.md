@@ -1,4 +1,4 @@
-### Bem-vindo(a) ao perfil do <a target="_blank" href="https://github.com/LuccasPoontes"> LuccasPoontes </a> 😁 👋
+### Bem-vindo(a) ao perfil <a target="_blank" href="https://github.com/LuccasPoontes"> LuccasPoontes </a> 😁 👋
 
 <h1 align = "center">About Luccas Pontes💻 </h1>
 
