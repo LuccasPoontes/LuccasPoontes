@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente, sou Analista de Planejamento e Sistemas, focado no gerenciamento de bancos de dados, análise de dados e otimização de processos. <br>
 - 🌱 Estudando Data Warehouse e Python. <br>
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS). <br>
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas (ADS). <br>
 - 😄 Acredito que todos os desafios são possíveis de serem realizados! <br>
 - 📊 <a href="https://github.com/LuccasPoontes/CERTIFICADOS" target="_blank"> Certificados</a>
 
